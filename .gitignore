@@ -1,1 +1,5 @@
 *.tmp
+backups/
+ci-project/
+ci.log
+
